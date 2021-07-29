@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @louetriTaha 
+- 👀 I’m interested in Computer science
+- 🌱 I’m currently learning OpenGl and 3D Gaming
+- 💞️ I’m looking to collaborate on everything i can learn in this area 
